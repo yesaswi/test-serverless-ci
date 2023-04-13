@@ -1,4 +1,4 @@
-name: Trigger Deploy
+name: Trigger Deploy Terraform 
 
 on:
   push:
